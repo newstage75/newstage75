@@ -1,5 +1,4 @@
 # ながとものgithubページです！
-</br>
 
 ## interest
 - 機械学習（Kagglerへの憧れ！）
