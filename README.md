@@ -1,9 +1,8 @@
 # ながとものgithubページです！
 
-## interest
+## Interest
 - 機械学習（Kagglerへの憧れ！）
 - 個人開発（サイト作成）
-</br>
 
 ## 2025年の目標  
 #### Kaggleエキスパートへ！
