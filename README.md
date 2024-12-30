@@ -12,4 +12,4 @@
 [将棋サイト-つぎイチ-](https://www.tugi-ichi.com)  
 
 #### 個人開発への意気込み
-Next.js(React)とSaaSサービスを連携・活用していきたい。
+Next.js(React)とBaaSサービスを連携・活用していきたい。
