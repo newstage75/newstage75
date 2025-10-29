@@ -9,6 +9,11 @@
 ポートフォリオ(将棋サイト「つぎイチ！」Laravelで作成)  
 [将棋サイト-つぎイチ-](https://www.tugi-ichi.com)  
 
+**博学オンライン運営中**  
+ポートフォリオ(クイズ形式で雑学が学べる「博学オンライン」Laravelで作成)  
+[博学オンライン](https://www.hakugaku.com)  
+
+
 **個人開発への取り組み**  
 Next.js(React)とBaaSサービスを連携・活用していきたい。生成AIと連携した開発も着手中です。  
 [アイデア帳](https://github.com/newstage75/MY-DEV-IDEAS)
