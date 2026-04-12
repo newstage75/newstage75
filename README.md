@@ -4,7 +4,10 @@
 - 個人開発（サイト作成）
 - 機械学習（Kagglerへの憧れ！）
 
-## 2025年の目標  
+## 2026年の目標
+**自身のサイトに機械学習・AI機能を実装すべく学習中**
+[学習記録-ゼロから作るDeep Learningなど](https://github.com/newstage75/ML_local_study)
+
 **将棋/dominionサイト運営中**  
 ポートフォリオ(将棋サイト「つぎイチ！」Laravel、Next.jsで作成)  
 [将棋サイト-つぎイチ-](https://www.tugi-ichi.com)  
@@ -12,7 +15,6 @@
 **博学オンライン運営中**  
 ポートフォリオ(クイズ形式で雑学が学べる「博学オンライン」Laravelで作成)  
 [博学オンライン](https://www.hakugaku.com)  
-
 
 **個人開発への取り組み**  
 Next.js(React)とBaaSサービスを連携・活用していきたい。生成AIと連携した開発も着手中です。  
