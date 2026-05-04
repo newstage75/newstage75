@@ -22,5 +22,6 @@ Next.js(React)とBaaSサービスを連携・活用していきたい。生成AI
 [アイデア帳](https://github.com/newstage75/MY-DEV-IDEAS)
 
 ## 【個人開発】GoogleCloudを活用した、AIエージェント開発に挑戦中
+AIと対話しながら自分の価値観やスキルを整理し、最適なキャリアパスを見つけるためのキャリアプラン相談プラットフォームを目指しています。
 [CareerBloomAgent](https://github.com/newstage75/CareerBloomAgent)
 
