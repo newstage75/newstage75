@@ -21,5 +21,6 @@
 Next.js(React)とBaaSサービスを連携・活用していきたい。生成AIと連携した開発も着手中です。  
 [アイデア帳](https://github.com/newstage75/MY-DEV-IDEAS)
 
-## 【勉強用】自作ポモドーロタイマー
-[ポモドーロタイマー](https://pomodoro-timer-henna.vercel.app/)
+## 【個人開発】GoogleCloudを活用した、AIエージェント開発に挑戦中
+[CareerBloomAgent](https://github.com/newstage75/CareerBloomAgent)
+
