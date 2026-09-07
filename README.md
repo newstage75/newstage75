@@ -11,7 +11,7 @@
 
 **将棋/dominionサイト運営中**  
 ポートフォリオ(将棋サイト「つぎイチ！」Laravel、Next.jsで作成)  
-[将棋サイト-つぎイチ-](https://www.tugi-ichi.com)  
+[将棋サイト-つぎイチ-](https://shogi.tugi-ichi.com)  
 
 **博学オンライン運営中**  
 ポートフォリオ(クイズ形式で雑学が学べる「博学オンライン」Laravelで作成)  
