@@ -13,16 +13,3 @@
 ポートフォリオ(将棋サイト「つぎイチ！」Laravel、Next.jsで作成)  
 [将棋サイト-つぎイチ-](https://shogi.tugi-ichi.com)  
 
-**博学オンライン運営中**  
-ポートフォリオ(クイズ形式で雑学が学べる「博学オンライン」Laravelで作成)  
-[博学オンライン](https://www.hakugaku.com)  
-
-**個人開発への取り組み**  
-Next.js(React)とBaaSサービスを連携・活用していきたい。生成AIと連携した開発も着手中です。  
-[アイデア帳](https://github.com/newstage75/MY-DEV-IDEAS)
-
-## 【個人開発】GoogleCloudを活用した、AIエージェント開発に挑戦中
-AIと対話しながら自分の価値観やスキルを整理。  
-価値観に沿ったキャリアパスを見つけるための相談プラットフォームを目指しています。  
-[CareerBloomAgent](https://github.com/newstage75/CareerBloomAgent)
-
